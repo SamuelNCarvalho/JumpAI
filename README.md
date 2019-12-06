@@ -2,6 +2,8 @@
 
 A simple game with neural network and genetic algorithm made with Unity.
 
+![](game.gif)
+
 An artificial 3-layer Perceptron Multilayer was used!
 
 - Input layer with 2 neurons
