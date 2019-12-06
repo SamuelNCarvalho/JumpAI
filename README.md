@@ -12,6 +12,9 @@ The activation functions used were Sigmoid and ReLU.
 
 [Play the Game](https://samuelncarvalho.github.io/JumpAI/)
 
+## Author ##
+- [Samuel Carvalho](https://github.com/SamuelNCarvalho)
+
 ## Assets ##
 
 **Fonts**
@@ -23,4 +26,4 @@ The activation functions used were Sigmoid and ReLU.
 **Audios**
 - [Background](https://opengameart.org/content/platformer-game-music-pack) by CodeManu
 - [Jump](https://opengameart.org/content/platformer-jumping-sounds) by dklon
-- [Dead](https://soundsbydane.itch.io/8-bit-sound-pack) by soundsbydane
+- [Game Over](https://soundsbydane.itch.io/8-bit-sound-pack) by soundsbydane
