@@ -11,3 +11,16 @@ An artificial 3-layer Perceptron Multilayer was used!
 The activation functions used were Sigmoid and ReLU.
 
 [Play the Game](https://samuelncarvalho.github.io/JumpAI/)
+
+## Assets ##
+
+**Fonts**
+- [Pixel Game Font](https://www.dafont.com/pt/pixelgamefont.font) by Bryndan Meyerholt
+
+**Sprites**
+- [SunnyLand](https://ansimuz.itch.io/sunny-land-pixel-game-art) by Ansimuz
+
+**Audios**
+- [Background](https://opengameart.org/content/platformer-game-music-pack) by CodeManu
+- [Jump](https://opengameart.org/content/platformer-jumping-sounds) by dklon
+- [Dead](https://soundsbydane.itch.io/8-bit-sound-pack) by soundsbydane
