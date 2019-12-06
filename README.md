@@ -9,3 +9,5 @@ An artificial 3-layer Perceptron Multilayer was used!
 - Output layer with 1 neurons
 
 The activation functions used were Sigmoid and ReLU.
+
+[Play the Game](https://samuelncarvalho.github.io/JumpAI/)
