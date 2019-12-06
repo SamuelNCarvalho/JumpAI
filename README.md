@@ -12,7 +12,7 @@ An artificial 3-layer Perceptron Multilayer was used!
 
 The activation functions used were Sigmoid and ReLU.
 
-[Play the Game](https://samuelncarvalho.github.io/JumpAI/)
+🎮 [Play the Game](https://samuelncarvalho.github.io/JumpAI/)
 
 ## Author ##
 - [Samuel Carvalho](https://github.com/SamuelNCarvalho)
